@@ -102,10 +102,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1605080743477">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1605081830731">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/www/php_heifengwuliu/config/session.php" timestamp="1599733823603">
         <mark key="[" line="29" column="17" />
@@ -125,11 +125,11 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Admin/Controller/ExportController.class.php" timestamp="1605081093397">
-        <mark key="[" line="1483" column="53" />
-        <mark key="]" line="1483" column="53" />
-        <mark key="^" line="1483" column="53" />
-        <mark key="." line="1483" column="52" />
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Admin/Controller/ExportController.class.php" timestamp="1605081780105">
+        <mark key="[" line="81" column="25" />
+        <mark key="]" line="81" column="29" />
+        <mark key="^" line="81" column="29" />
+        <mark key="." line="81" column="28" />
       </file>
       <file name="$USER_HOME$/www/php_erp_xinong/application/admin/controller/Backup.php" timestamp="1605025253700">
         <mark key="[" line="34" column="21" />
@@ -332,10 +332,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>,u.card_num</text>
+        <text>优化</text>
       </register>
       <register name="-" type="4">
-        <text>,u.card_num</text>
+        <text>优化</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
