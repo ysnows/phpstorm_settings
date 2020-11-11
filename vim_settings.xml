@@ -166,11 +166,11 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Admin/Controller/CountAllController.class.php" timestamp="1605057158707">
-        <mark key="[" line="30" column="46" />
-        <mark key="]" line="30" column="46" />
-        <mark key="^" line="30" column="46" />
-        <mark key="." line="30" column="45" />
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Admin/Controller/CountAllController.class.php" timestamp="1605060108276">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="40" column="43" />
+        <mark key="." line="40" column="42" />
       </file>
       <file name="$USER_HOME$/www/php_heifengwuliu/application/admin/controller/User.php" timestamp="1599708364499">
         <mark key="[" line="123" column="47" />
@@ -331,7 +331,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIHt9ICAK</text>
+        <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIHtzdHJpbmd9IHNhbGVyVG9wdXAg5omT5qy+5YWF5YC8CiAgICAgKiBAYXBpU3VjY2VzcyB7c3RyaW5nfSB1c2VyVG9wdXAgIOeUqOaIt+WFheWAvAogICAgICogQGFwaVN1Y2Nlc3Mge3N0cmluZ30gYmFsYW5jZSAg5a6e5pe25L2Z6aKdCg==</text>
       </register>
       <register name="-" type="4">
         <text>buy</text>
@@ -339,8 +339,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>appid</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIHtzdHJpbmd9IHNhbGVyVG9wdXAg5omT5qy+5YWF5YC8CiAgICAgKiBAYXBpU3VjY2VzcyB7c3RyaW5nfSB1c2VyVG9wdXAgIOeUqOaIt+WFheWAvAogICAgICogQGFwaVN1Y2Nlc3Mge3N0cmluZ30gYmFsYW5jZSAg5a6e5pe25L2Z6aKdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEBhcGlTdWNjZXNzIHt9ICAK</text>
