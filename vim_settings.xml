@@ -102,17 +102,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/php_erp_xinong/thinkphp/library/think/db/Query.php" timestamp="1605144179037">
-        <mark key="[" line="1962" column="83" />
-        <mark key="]" line="1962" column="83" />
-        <mark key="^" line="1962" column="83" />
-        <mark key="." line="1962" column="82" />
-      </file>
       <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Controller/SevenV2Controller.class.php" timestamp="1605148736098">
         <mark key="[" line="322" column="5" />
         <mark key="]" line="322" column="5" />
         <mark key="^" line="322" column="5" />
         <mark key="." line="322" column="4" />
+      </file>
+      <file name="$USER_HOME$/www/php_erp_xinong/application/api/controller/Check.php" timestamp="1605150871961">
+        <mark key="[" line="173" column="21" />
+        <mark key="]" line="173" column="21" />
+        <mark key="^" line="173" column="21" />
+        <mark key="." line="173" column="20" />
       </file>
       <file name="$USER_HOME$/www/php_erp_xinong/application/api/controller/Index.php" timestamp="1605148458215">
         <mark key="[" line="45" column="0" />
@@ -126,22 +126,31 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/application/api/controller/Allocation.php" timestamp="1605144139992">
-        <mark key="[" line="160" column="17" />
-        <mark key="]" line="160" column="17" />
-        <mark key="^" line="160" column="17" />
-        <mark key="." line="160" column="16" />
+      <file name="/PHP Console" timestamp="1605150887033">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Common/Conf/config.php" timestamp="1605147281785">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="4" />
-        <mark key="^" line="15" column="4" />
-        <mark key="." line="15" column="3" />
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Controller/IndexController.class.php" timestamp="1605150734430">
+        <mark key="[" line="99" column="1" />
+        <mark key="]" line="99" column="1" />
+        <mark key="^" line="99" column="1" />
+        <mark key="." line="99" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1605147356008">
-        <mark key="[" line="0" column="2" />
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Common/Conf/config.php" timestamp="1605150309630">
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="82" column="37" />
+        <mark key="^" line="82" column="37" />
+        <mark key="." line="82" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1605150463738">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/www/php_erp_xinong/application/database.php" timestamp="1605150299839">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="4" column="45" />
+        <mark key="." line="4" column="44" />
       </file>
       <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Admin/Controller/ExportController.class.php" timestamp="1605145905878">
         <mark key="[" line="97" column="122" />
@@ -167,7 +176,7 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Controller/OrderV2Controller.class.php" timestamp="1605148817581">
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Controller/OrderV2Controller.class.php" timestamp="1605149855305">
         <mark key="'" line="975" column="0" />
         <mark key="[" line="976" column="9" />
         <mark key="]" line="976" column="9" />
@@ -187,12 +196,6 @@
         <mark key="^" line="215" column="27" />
         <mark key="." line="215" column="26" />
       </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/application/common/validate/Allocationinfo.php" timestamp="1605144022764">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="58" />
-        <mark key="^" line="10" column="58" />
-        <mark key="." line="10" column="57" />
-      </file>
       <file name="$USER_HOME$/www/php_erp_xinong/application/api/behavior/Actions.php" timestamp="1605144272059">
         <mark key="[" line="12" column="73" />
         <mark key="]" line="12" column="73" />
@@ -210,12 +213,6 @@
         <mark key="]" line="28" column="6" />
         <mark key="^" line="28" column="6" />
         <mark key="." line="28" column="5" />
-      </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Model/SalerBalanceLogModel.class.php" timestamp="1605087568397">
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="45" column="25" />
-        <mark key="^" line="55" column="33" />
-        <mark key="." line="45" column="25" />
       </file>
       <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Common/Conf/ConfigUserBalanceType.class.php" timestamp="1605148806357">
         <mark key="[" line="14" column="43" />
@@ -332,17 +329,17 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGNvbnN0ICBPUkRFUiA9IDE7IC8vIOiuouWNlQogICAgY29uc3QgIFRSQU5TRkVSID0gMjsgLy/kvZnpop3ovazmjaIKICAgIGNvbnN0ICBFUlBfVE9QVVAgPSAzOyAvLyDkvZnpop3lhYXlgLwKICAgIGNvbnN0ICBTRVZFTkFDVElWSVRZID0gNTsgLy8gNzfmtLvliqjlhYXlgLwK</text>
+      <register name="*" type="4">
+        <text>1016erp@KDlJ1I1</text>
       </register>
       <register name="-" type="4">
-        <text>余额记录优化</text>
+        <text>_dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0ICBPUkRFUiA9IDE7IC8vIOiuouWNlQogICAgY29uc3QgIFRSQU5TRkVSID0gMjsgLy/kvZnpop3ovazmjaIKICAgIGNvbnN0ICBFUlBfVE9QVVAgPSAzOyAvLyDkvZnpop3lhYXlgLwKICAgIGNvbnN0ICBTRVZFTkFDVElWSVRZID0gNTsgLy8gNzfmtLvliqjlhYXlgLwK</text>
+      <register name="0" type="4">
+        <text>1016erp@KDlJ1I1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHR5cGVBcnIgPSBhcnJheSgpOwo=</text>
