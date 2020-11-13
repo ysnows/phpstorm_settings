@@ -144,12 +144,12 @@
         <mark key="^" line="42" column="50" />
         <mark key="." line="42" column="49" />
       </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/common/model/Album.php" timestamp="1605248047424">
+      <file name="$USER_HOME$/www/php_suhongshop/app/common/model/Album.php" timestamp="1605250564729">
         <mark key="'" line="97" column="20" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="113" />
+        <mark key="^" line="97" column="21" />
+        <mark key="." line="97" column="20" />
       </file>
       <file name="$USER_HOME$/www/php_suhongshop/app/home/controller/Goods.php" timestamp="1605244445292">
         <mark key="[" line="34" column="41" />
@@ -190,11 +190,12 @@
         <mark key="^" line="86" column="26" />
         <mark key="." line="86" column="25" />
       </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" timestamp="1605248239300">
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="51" column="30" />
-        <mark key="^" line="51" column="30" />
-        <mark key="." line="51" column="29" />
+      <file name="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" timestamp="1605250791312">
+        <mark key="'" line="47" column="19" />
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="33" />
+        <mark key="^" line="49" column="33" />
+        <mark key="." line="49" column="32" />
       </file>
       <file name="$USER_HOME$/www/php_suhongshop/app/admin/controller/Goodsadd.php" timestamp="1605244212073">
         <mark key="[" line="454" column="39" />
@@ -216,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="585" column="23" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
       <jump line="979" column="47" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
       <jump line="341" column="0" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
       <jump line="410" column="0" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
@@ -316,6 +316,7 @@
       <jump line="452" column="19" filename="$USER_HOME$/www/php_chunxiaoshop/app/admin/controller/Goodsadd.php" />
       <jump line="1331" column="33" filename="$USER_HOME$/www/php_suhongshop/app/common/model/Goods.php" />
       <jump line="96" column="20" filename="$USER_HOME$/www/php_suhongshop/app/common/model/Album.php" />
+      <jump line="47" column="19" filename="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,10 +325,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>l</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
