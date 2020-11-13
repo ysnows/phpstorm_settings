@@ -102,23 +102,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/view/index/index.html" timestamp="1605171697313">
-        <mark key="[" line="73" column="31" />
-        <mark key="]" line="73" column="36" />
-        <mark key="." line="73" column="35" />
-        <mark key="^" line="73" column="36" />
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common/model/BaseModel.php" timestamp="1605172901284">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+        <mark key="." line="19" column="29" />
       </file>
-      <file name="/qs_goods [MySQL - 1019suhongshop@47.105.79.64]" timestamp="1605169963341">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/1019suhongshop.qs_goods" timestamp="1605169963355">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/view/public/header.html" timestamp="1605171132529">
-        <mark key="[" line="26" column="69" />
-        <mark key="]" line="26" column="69" />
-        <mark key="^" line="26" column="69" />
-        <mark key="." line="26" column="68" />
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/controller/Goodsadd.php" timestamp="1605172584405">
+        <mark key="[" line="102" column="31" />
+        <mark key="]" line="102" column="31" />
+        <mark key="^" line="102" column="31" />
+        <mark key="." line="102" column="30" />
       </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/app/common_global.php" timestamp="1605171143320">
         <mark key="[" line="36" column="53" />
@@ -126,30 +120,11 @@
         <mark key="^" line="36" column="53" />
         <mark key="." line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/.env" timestamp="1605170591173">
-        <mark key="'" line="12" column="11" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1605169963927">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1605169329077">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/admin/controller/AdminControl.php" timestamp="1605169075224">
-        <mark key="[" line="533" column="25" />
-        <mark key="]" line="533" column="25" />
-        <mark key="^" line="533" column="25" />
-        <mark key="." line="533" column="24" />
-      </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/BaseGoods.php" timestamp="1605170605950">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="37" />
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common/model/Stat.php" timestamp="1605173366747">
+        <mark key="[" line="464" column="0" />
+        <mark key="]" line="465" column="4" />
+        <mark key="^" line="465" column="4" />
+        <mark key="." line="465" column="3" />
       </file>
       <file name="$USER_HOME$/www/php_suhongshop/config/app.php" timestamp="1605170350900">
         <mark key="'" line="18" column="6" />
@@ -157,6 +132,62 @@
         <mark key="]" line="35" column="28" />
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/Goods.php" timestamp="1605173396211">
+        <mark key="[" line="578" column="31" />
+        <mark key="]" line="578" column="31" />
+        <mark key="^" line="578" column="31" />
+        <mark key="." line="578" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common.php" timestamp="1605173136532">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="11" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/controller/AdminControl.php" timestamp="1605170794892">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="7" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/view/index/index.html" timestamp="1605172513232">
+        <mark key="[" line="83" column="1" />
+        <mark key="]" line="83" column="1" />
+        <mark key="^" line="83" column="1" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/view/public/header.html" timestamp="1605171132529">
+        <mark key="[" line="26" column="69" />
+        <mark key="]" line="26" column="69" />
+        <mark key="^" line="26" column="69" />
+        <mark key="." line="26" column="68" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/.env" timestamp="1605173069489">
+        <mark key="'" line="12" column="11" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/controller/Goods.php" timestamp="1605172856957">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
+        <mark key="^" line="33" column="56" />
+        <mark key="." line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/config/database.php" timestamp="1605173072869">
+        <mark key="[" line="61" column="31" />
+        <mark key="]" line="61" column="31" />
+        <mark key="^" line="61" column="31" />
+        <mark key="." line="61" column="30" />
+      </file>
+      <file name="/dummy.sql" timestamp="1605169963927">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/BaseGoods.php" timestamp="1605170605950">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/view/public/topnav.html" timestamp="1605171009741">
         <mark key="[" line="8" column="59" />
@@ -169,17 +200,12 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/www/php_suhongshop/config/view.php" timestamp="1605169139286">
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="24" column="1" />
-        <mark key="^" line="24" column="1" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/controller/AdminControl.php" timestamp="1605170794892">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="7" />
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common/model/Goods.php" timestamp="1605173017362">
+        <mark key="'" line="939" column="24" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/www/php_suhongshop/app/common_goods.php" timestamp="1605170299227">
         <mark key="[" line="76" column="47" />
@@ -187,36 +213,14 @@
         <mark key="^" line="76" column="47" />
         <mark key="." line="76" column="46" />
       </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/admin/view/public/topnav.html" timestamp="1605169031631">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="50" />
-        <mark key="^" line="6" column="50" />
-        <mark key="." line="6" column="49" />
-      </file>
       <file name="$USER_HOME$/www/php_suhongshop/app/admin/controller/Goodsadd.php" timestamp="1605170493630">
         <mark key="[" line="444" column="11" />
         <mark key="]" line="444" column="11" />
         <mark key="^" line="444" column="11" />
         <mark key="." line="444" column="10" />
       </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/admin/controller/Admin.php" timestamp="1605168976972">
-        <mark key="'" line="281" column="20" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="35" />
-        <mark key="^" line="18" column="35" />
-        <mark key="." line="18" column="34" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/.env" timestamp="1605169424184">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="10" column="11" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="30" filename="$USER_HOME$/www/php_ulove520/application/api/controller/Uploadify.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/php_ulove520/application/api/controller/Uploadify.php" />
       <jump line="34" column="15" filename="$USER_HOME$/www/php_ulove520/application/admin/controller/Uploadify.php" />
       <jump line="0" column="0" filename="$USER_HOME$/www/php_ulove520/index.php" />
       <jump line="24" column="2" filename="$USER_HOME$/www/php_ulove520/index.php" />
@@ -315,6 +319,8 @@
       <jump line="0" column="16" filename="$USER_HOME$/www/php_suhongshop/.env" />
       <jump line="18" column="6" filename="$USER_HOME$/www/php_suhongshop/config/app.php" />
       <jump line="12" column="11" filename="$USER_HOME$/www/php_chunxiaoshop/.env" />
+      <jump line="190" column="37" filename="$USER_HOME$/www/php_chunxiaoshop/app/common/model/Goods.php" />
+      <jump line="939" column="24" filename="$USER_HOME$/www/php_chunxiaoshop/app/common/model/Goods.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,10 +329,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>Goodsclass</text>
+        <text>Db::name</text>
       </register>
       <register name="-" type="4">
-        <text>Goodsclass</text>
+        <text>Db::name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
