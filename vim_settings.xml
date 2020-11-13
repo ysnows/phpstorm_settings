@@ -102,51 +102,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1605277792362">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/www/vbot/config.php" timestamp="1605249530978">
         <mark key="[" line="63" column="35" />
         <mark key="]" line="63" column="35" />
         <mark key="^" line="63" column="35" />
         <mark key="." line="63" column="34" />
-      </file>
-      <file name="$USER_HOME$/www/vbot/vendor/hanson/vbot/src/Core/Server.php" timestamp="1605249135480">
-        <mark key="[" line="42" column="50" />
-        <mark key="]" line="42" column="50" />
-        <mark key="^" line="42" column="50" />
-        <mark key="." line="42" column="49" />
-      </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/vendor/topthink/think-orm/src/facade/Db.php" timestamp="1605256569092" />
-      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common_global.php" timestamp="1605256049604">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="16" />
-      </file>
-      <file name="/PHP Console" timestamp="1605257994575">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/.env" timestamp="1605256798112">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" timestamp="1605255386442">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="47" column="12" />
-        <mark key="^" line="47" column="12" />
-        <mark key="." line="47" column="11" />
-      </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/config/database.php" timestamp="1605256822520">
-        <mark key="[" line="29" column="75" />
-        <mark key="]" line="29" column="75" />
-        <mark key="^" line="29" column="75" />
-        <mark key="." line="29" column="74" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1605259217241">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/www/vbot/Example.php" timestamp="1605249123240">
         <mark key="[" line="49" column="32" />
@@ -159,6 +124,12 @@
         <mark key="]" line="41" column="53" />
         <mark key="^" line="41" column="53" />
         <mark key="." line="41" column="52" />
+      </file>
+      <file name="$USER_HOME$/www/vbot/vendor/hanson/vbot/src/Core/Server.php" timestamp="1605249135480">
+        <mark key="[" line="42" column="50" />
+        <mark key="]" line="42" column="50" />
+        <mark key="^" line="42" column="50" />
+        <mark key="." line="42" column="49" />
       </file>
       <file name="$USER_HOME$/www/php_suhongshop/app/common/model/Album.php" timestamp="1605250564729">
         <mark key="'" line="97" column="20" />
@@ -185,11 +156,26 @@
         <mark key="^" line="46" column="9" />
         <mark key="." line="46" column="8" />
       </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common_global.php" timestamp="1605256049604">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/app/common/model/Goods.php" timestamp="1605258236391">
         <mark key="[" line="30" column="19" />
         <mark key="]" line="30" column="19" />
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="18" />
+      </file>
+      <file name="/PHP Console" timestamp="1605257994575">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/.env" timestamp="1605256798112">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/Api.php" timestamp="1605256883809">
         <mark key="'" line="19" column="7" />
@@ -197,6 +183,31 @@
         <mark key="]" line="63" column="56" />
         <mark key="^" line="63" column="36" />
         <mark key="." line="63" column="35" />
+      </file>
+      <file name="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" timestamp="1605255386442">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="12" />
+        <mark key="^" line="47" column="12" />
+        <mark key="." line="47" column="11" />
+      </file>
+      <file name="$USER_HOME$/www/php_erp_xinong/application/api/controller/Tools.php" timestamp="1605277812323">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Controller/ToolsController.class.php" timestamp="1605277985479">
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+        <mark key="." line="31" column="36" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/config/database.php" timestamp="1605256822520">
+        <mark key="[" line="29" column="75" />
+        <mark key="]" line="29" column="75" />
+        <mark key="^" line="29" column="75" />
+        <mark key="." line="29" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -308,10 +319,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">RGI6OmNvbm5lY3QoJ2RiX3N1aG9uZycpLT5uYW1lKCdnb29kc2NvbW1vbicp</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
