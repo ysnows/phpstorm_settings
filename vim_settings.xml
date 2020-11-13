@@ -102,8 +102,49 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1605255122385">
-        <mark key="[" line="0" column="2" />
+      <file name="$USER_HOME$/www/vbot/config.php" timestamp="1605249530978">
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="35" />
+        <mark key="^" line="63" column="35" />
+        <mark key="." line="63" column="34" />
+      </file>
+      <file name="$USER_HOME$/www/vbot/vendor/hanson/vbot/src/Core/Server.php" timestamp="1605249135480">
+        <mark key="[" line="42" column="50" />
+        <mark key="]" line="42" column="50" />
+        <mark key="^" line="42" column="50" />
+        <mark key="." line="42" column="49" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/vendor/topthink/think-orm/src/facade/Db.php" timestamp="1605256569092" />
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common_global.php" timestamp="1605256049604">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="16" />
+      </file>
+      <file name="/PHP Console" timestamp="1605257994575">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/.env" timestamp="1605256798112">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" timestamp="1605255386442">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="12" />
+        <mark key="^" line="47" column="12" />
+        <mark key="." line="47" column="11" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/config/database.php" timestamp="1605256822520">
+        <mark key="[" line="29" column="75" />
+        <mark key="]" line="29" column="75" />
+        <mark key="^" line="29" column="75" />
+        <mark key="." line="29" column="74" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1605258088562">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
@@ -113,36 +154,11 @@
         <mark key="^" line="49" column="32" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/www/vbot/config.php" timestamp="1605249530978">
-        <mark key="[" line="63" column="35" />
-        <mark key="]" line="63" column="35" />
-        <mark key="^" line="63" column="35" />
-        <mark key="." line="63" column="34" />
-      </file>
       <file name="$USER_HOME$/www/vbot/vendor/hanson/vbot/src/Core/MessageHandler.php" timestamp="1605249394308">
         <mark key="[" line="41" column="53" />
         <mark key="]" line="41" column="53" />
         <mark key="^" line="41" column="53" />
         <mark key="." line="41" column="52" />
-      </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common_goods.php" timestamp="1605241706814">
-        <mark key="[" line="258" column="1" />
-        <mark key="]" line="258" column="1" />
-        <mark key="^" line="258" column="1" />
-        <mark key="." line="258" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/common/model/Goods.php" timestamp="1605244632078">
-        <mark key="'" line="1331" column="33" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/www/vbot/vendor/hanson/vbot/src/Core/Server.php" timestamp="1605249135480">
-        <mark key="[" line="42" column="50" />
-        <mark key="]" line="42" column="50" />
-        <mark key="^" line="42" column="50" />
-        <mark key="." line="42" column="49" />
       </file>
       <file name="$USER_HOME$/www/php_suhongshop/app/common/model/Album.php" timestamp="1605250564729">
         <mark key="'" line="97" column="20" />
@@ -151,23 +167,11 @@
         <mark key="^" line="97" column="21" />
         <mark key="." line="97" column="20" />
       </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/home/controller/Goods.php" timestamp="1605244445292">
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="41" />
-        <mark key="^" line="34" column="41" />
-        <mark key="." line="34" column="40" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/common.php" timestamp="1605244661492">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="37" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="21" column="36" />
-      </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common_upload.php" timestamp="1605239063147">
-        <mark key="[" line="105" column="32" />
-        <mark key="]" line="105" column="56" />
-        <mark key="^" line="105" column="49" />
-        <mark key="." line="105" column="48" />
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/BaseGoods.php" timestamp="1605258025936">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="$USER_HOME$/www/vbot/run.php" timestamp="1605249087893">
         <mark key="[" line="6" column="22" />
@@ -175,49 +179,27 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/app/admin/controller/Goodsadd.php" timestamp="1605241707980">
-        <mark key="[" line="472" column="0" />
-        <mark key="]" line="472" column="0" />
-        <mark key="^" line="472" column="0" />
-        <mark key="." line="472" column="0" />
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/Goods.php" timestamp="1605258046194">
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="9" />
+        <mark key="^" line="46" column="9" />
+        <mark key="." line="46" column="8" />
       </file>
-      <file name="/PHP Console" timestamp="1605254909461">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common/model/Goods.php" timestamp="1605258236391">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/common_goods.php" timestamp="1605246783037">
-        <mark key="[" line="86" column="26" />
-        <mark key="]" line="86" column="26" />
-        <mark key="^" line="86" column="26" />
-        <mark key="." line="86" column="25" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" timestamp="1605255386442">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="47" column="12" />
-        <mark key="^" line="47" column="12" />
-        <mark key="." line="47" column="11" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/admin/controller/Goodsadd.php" timestamp="1605244212073">
-        <mark key="[" line="454" column="39" />
-        <mark key="]" line="454" column="39" />
-        <mark key="^" line="454" column="39" />
-        <mark key="." line="454" column="38" />
-      </file>
-      <file name="/dummy.sql" timestamp="1605238766304">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/1110chunxiaoshop.qs_activitydetail" timestamp="1605238643769">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/common_upload.php" timestamp="1605245135103">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="98" column="0" />
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/Api.php" timestamp="1605256883809">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="63" column="12" />
+        <mark key="]" line="63" column="56" />
+        <mark key="^" line="63" column="36" />
+        <mark key="." line="63" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="0" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
       <jump line="410" column="0" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
       <jump line="20" column="26" filename="$USER_HOME$/www/php_ulove520/application/admin/template/uploadify/upload.htm" />
       <jump line="310" column="16" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
@@ -317,6 +299,7 @@
       <jump line="96" column="20" filename="$USER_HOME$/www/php_suhongshop/app/common/model/Album.php" />
       <jump line="47" column="19" filename="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" />
       <jump line="72" column="0" filename="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" />
+      <jump line="19" column="7" filename="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/Api.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,49 +308,49 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>适配阿里云OSS多图上传</text>
+        <text encoding="base64">RGI6OmNvbm5lY3QoJ2RiX3N1aG9uZycpLT5uYW1lKCdnb29kc2NvbW1vbicp</text>
       </register>
       <register name="-" type="4">
-        <text>适配阿里云OSS多图上传</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJy0tLS0tLScgLiAkcmVzOwogICAgICAgICAgICAgICAgZWNobyAiPGJyLz4iOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">RGI6OmNvbm5lY3QoJ2RiX3N1aG9uZycpLT5uYW1lKCdnb29kc2NvbW1vbicp</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRiLT5jb21taXQoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y29ubmVjdCgnZGJfc3Vob25nJykKICAgICAgICAgICAgLT4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYi0+Y29tbWl0KCk7Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYi0+c3RhcnRUcmFucygpOwo=</text>
+        <text encoding="base64">REVGQVVMVF9USU1FWk9ORSA9IEFzaWEvU2hhbmdoYWkKIwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJGdvb2RzX2JvZHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRiLT5jb21taXQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYi0+Y29tbWl0KCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gYXJyYXkoJ2NvZGUnID0+ICcyMDAnLCAnbWVzc2FnZScgPT4gJycsICdyZXN1bHQnID0+ICRpbWdzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYi0+c3RhcnRUcmFucygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJE9zc0NsaWVudC0+bXVsdGl1cGxvYWRGaWxlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJGdvb2RzX2JvZHk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGFycmF5KCdjb2RlJyA9PiAnMjAwJywgJ21lc3NhZ2UnID0+ICcnLCAncmVzdWx0JyA9PiAkZmlsZWluZm9bJ2luZm8nXVsndXJsJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmlsZVBhdGggPSAkX0ZJTEVTWyRmaWxlX25hbWVdWyd0bXBfbmFtZSddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gYXJyYXkoJ2NvZGUnID0+ICcyMDAnLCAnbWVzc2FnZScgPT4gJycsICdyZXN1bHQnID0+ICRpbWdzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
