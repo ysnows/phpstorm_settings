@@ -131,6 +131,9 @@
         <mark key="^" line="42" column="50" />
         <mark key="." line="42" column="49" />
       </file>
+      <file name="/fragment.php" timestamp="1605281554802">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/php_suhongshop/app/common/model/Album.php" timestamp="1605250564729">
         <mark key="'" line="97" column="20" />
         <mark key="[" line="103" column="0" />
@@ -144,17 +147,11 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Controller/OrderV2Controller.class.php" timestamp="1605279913989">
-        <mark key="[" line="1554" column="39" />
-        <mark key="]" line="1554" column="39" />
-        <mark key="^" line="1554" column="39" />
-        <mark key="." line="1554" column="38" />
-      </file>
-      <file name="$USER_HOME$/www/vbot/run.php" timestamp="1605249087893">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Controller/OrderV2Controller.class.php" timestamp="1605281913126">
+        <mark key="[" line="275" column="143" />
+        <mark key="]" line="275" column="143" />
+        <mark key="^" line="275" column="143" />
+        <mark key="." line="275" column="142" />
       </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/Goods.php" timestamp="1605258046194">
         <mark key="[" line="46" column="9" />
@@ -174,7 +171,7 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="18" />
       </file>
-      <file name="/PHP Console" timestamp="1605280225985">
+      <file name="/PHP Console" timestamp="1605280527786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/.env" timestamp="1605256798112">
@@ -203,11 +200,11 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Controller/ToolsController.class.php" timestamp="1605280175328">
-        <mark key="[" line="49" column="21" />
-        <mark key="]" line="49" column="23" />
-        <mark key="^" line="49" column="23" />
-        <mark key="." line="49" column="22" />
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Erp/Controller/ToolsController.class.php" timestamp="1605281178371">
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="32" />
+        <mark key="^" line="46" column="32" />
+        <mark key="." line="46" column="31" />
       </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/config/database.php" timestamp="1605256822520">
         <mark key="[" line="29" column="75" />
@@ -325,49 +322,49 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>'100'</text>
+        <text encoding="base64">PD0gMA==</text>
       </register>
       <register name="-" type="4">
-        <text>'100'</text>
+        <text encoding="base64">PD0gMA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>$_GET['sid']</text>
+        <text>is_ratio</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkd2hlcmVzWydvLnNpZCddID0gJF9HRVRbJ3NpZCddOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHZbJ2lzX3JhdGlvJ10gPT0gMSAmJiAhJF9QT1NUWyd1c2VfY29pbl9udW1zJ10gJiYgJGlzX2dpZnQgPD0gMCkgeyAvLyDkvb/nlKgg56GS5Yi4IOeahOiuouWNleS4jei/lOWIqSzkvJrlkZjmiJbogIXkvJrplb/otK3kubDpnIDopoHmt7vliqDov5TliKnorrDlvZXkvYbkuI3lrp7pmYXmt7vliqDmgLvmlbDmja7vvIjkuLrkuobkvJrplb/ljLrln5/kuJrnu6ks5omA5Lul6L+Z6YeM6ZyA6KaB5aKe5Yqg6L+U5Yip6K6w5b2V77yJCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGpzb25lbiAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHZbJ2lzX3JhdGlvJ10gPT0gMSAmJiAhJF9QT1NUWyd1c2VfY29pbl9udW1zJ10gJiYgJGlzX2dpZnQgPD0gMCkgeyAvLyDkvb/nlKgg56GS5Yi4IOeahOiuouWNleS4jei/lOWIqSzkvJrlkZjmiJbogIXkvJrplb/otK3kubDpnIDopoHmt7vliqDov5TliKnorrDlvZXkvYbkuI3lrp7pmYXmt7vliqDmgLvmlbDmja7vvIjkuLrkuobkvJrplb/ljLrln5/kuJrnu6ks5omA5Lul6L+Z6YeM6ZyA6KaB5aKe5Yqg6L+U5Yip6K6w5b2V77yJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a0EK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkdlsnaXNfcmF0aW8nXSA9PSAxICYmICEkX1BPU1RbJ3VzZV9jb2luX251bXMnXSAmJiAkaXNfZ2lmdCA8PSAwKSB7IC8vIOS9v+eUqCDnoZLliLgg55qE6K6i5Y2V5LiN6L+U5YipLOS8muWRmOaIluiAheS8mumVv+i0reS5sOmcgOimgea3u+WKoOi/lOWIqeiusOW9leS9huS4jeWunumZhea3u+WKoOaAu+aVsOaNru+8iOS4uuS6huS8mumVv+WMuuWfn+S4mue7qSzmiYDku6Xov5nph4zpnIDopoHlop7liqDov5TliKnorrDlvZXvvIkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29ubmVjdCgnZGJfc3Vob25nJykKICAgICAgICAgICAgLT4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJHZbJ2dvb2RfdW5pZnlfcmF0aW8nXSA+IDAgfHwgJHZbJ2dvb2RfcmF0aW9fcHJpY2UnXSA+IDApIHsvL+WtmOWcqOavlOS+iyAg5oiW6ICFIOi/lOWIqeS7t+agvAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICAkd2hlcmVzWydvLnNpZCddID0gJF9HRVRbJ3NpZCddOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REVGQVVMVF9USU1FWk9ORSA9IEFzaWEvU2hhbmdoYWkKIwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIGpzb25lbiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRiLT5jb21taXQoKTsK</text>
+        <text encoding="base64">a0EK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYi0+Y29tbWl0KCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29ubmVjdCgnZGJfc3Vob25nJykKICAgICAgICAgICAgLT4=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYi0+c3RhcnRUcmFucygpOwo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
