@@ -102,44 +102,55 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/Manage/member-recharge-list2.html" timestamp="1605317077449">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="213" column="29" />
+        <mark key="]" line="213" column="34" />
+        <mark key="^" line="213" column="34" />
+        <mark key="." line="213" column="33" />
+      </file>
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/Manage/overage-list2.html" timestamp="1605317089753">
+        <mark key="'" line="19" column="27" />
+        <mark key="[" line="197" column="29" />
+        <mark key="]" line="197" column="34" />
+        <mark key="^" line="197" column="34" />
+        <mark key="." line="197" column="33" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common_global.php" timestamp="1605256049604">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Admin/Controller/SalerShopController.class.php" timestamp="1605316738854">
+        <mark key="'" line="287" column="20" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1605281963429">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/.env" timestamp="1605256798112">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/php_chunxiaoshop/config/database.php" timestamp="1605256822520">
+        <mark key="[" line="29" column="75" />
+        <mark key="]" line="29" column="75" />
+        <mark key="^" line="29" column="75" />
+        <mark key="." line="29" column="74" />
+      </file>
       <file name="/Dummy.txt" timestamp="1605286345412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/vbot/config.php" timestamp="1605249530978">
-        <mark key="[" line="63" column="35" />
-        <mark key="]" line="63" column="35" />
-        <mark key="^" line="63" column="35" />
-        <mark key="." line="63" column="34" />
-      </file>
-      <file name="$USER_HOME$/www/vbot/Example.php" timestamp="1605249123240">
-        <mark key="[" line="49" column="32" />
-        <mark key="]" line="49" column="32" />
-        <mark key="^" line="49" column="32" />
-        <mark key="." line="49" column="31" />
-      </file>
-      <file name="$USER_HOME$/www/vbot/vendor/hanson/vbot/src/Core/MessageHandler.php" timestamp="1605249394308">
-        <mark key="[" line="41" column="53" />
-        <mark key="]" line="41" column="53" />
-        <mark key="^" line="41" column="53" />
-        <mark key="." line="41" column="52" />
-      </file>
-      <file name="$USER_HOME$/www/vbot/vendor/hanson/vbot/src/Core/Server.php" timestamp="1605249135480">
-        <mark key="[" line="42" column="50" />
-        <mark key="]" line="42" column="50" />
-        <mark key="^" line="42" column="50" />
-        <mark key="." line="42" column="49" />
-      </file>
       <file name="/fragment.php" timestamp="1605281554802">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/common/model/Album.php" timestamp="1605250564729">
-        <mark key="'" line="97" column="20" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="113" />
-        <mark key="^" line="97" column="21" />
-        <mark key="." line="97" column="20" />
       </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/BaseGoods.php" timestamp="1605258025936">
         <mark key="[" line="19" column="8" />
@@ -159,11 +170,17 @@
         <mark key="^" line="46" column="9" />
         <mark key="." line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/app/common_global.php" timestamp="1605256049604">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="16" />
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/Manage/member-recharge-list.html" timestamp="1605317066906">
+        <mark key="[" line="218" column="29" />
+        <mark key="]" line="218" column="34" />
+        <mark key="^" line="218" column="34" />
+        <mark key="." line="218" column="33" />
+      </file>
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/Manage/overage-list.html" timestamp="1605316650725">
+        <mark key="[" line="197" column="30" />
+        <mark key="]" line="197" column="34" />
+        <mark key="^" line="197" column="34" />
+        <mark key="." line="197" column="33" />
       </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/app/common/model/Goods.php" timestamp="1605258236391">
         <mark key="[" line="30" column="19" />
@@ -171,14 +188,11 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="18" />
       </file>
-      <file name="/PHP Console" timestamp="1605281963429">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/.env" timestamp="1605256798112">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Admin/Controller/BaseController.class.php" timestamp="1605316976788">
+        <mark key="[" line="175" column="8" />
+        <mark key="]" line="175" column="8" />
+        <mark key="^" line="175" column="8" />
+        <mark key="." line="175" column="7" />
       </file>
       <file name="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/Api.php" timestamp="1605256883809">
         <mark key="'" line="19" column="7" />
@@ -186,13 +200,6 @@
         <mark key="]" line="63" column="56" />
         <mark key="^" line="63" column="36" />
         <mark key="." line="63" column="35" />
-      </file>
-      <file name="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" timestamp="1605255386442">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="47" column="12" />
-        <mark key="^" line="47" column="12" />
-        <mark key="." line="47" column="11" />
       </file>
       <file name="$USER_HOME$/www/php_erp_xinong/application/api/controller/Tools.php" timestamp="1605277812323">
         <mark key="[" line="7" column="7" />
@@ -206,17 +213,14 @@
         <mark key="^" line="58" column="47" />
         <mark key="." line="58" column="46" />
       </file>
-      <file name="$USER_HOME$/www/php_chunxiaoshop/config/database.php" timestamp="1605256822520">
-        <mark key="[" line="29" column="75" />
-        <mark key="]" line="29" column="75" />
-        <mark key="^" line="29" column="75" />
-        <mark key="." line="29" column="74" />
+      <file name="$USER_HOME$/www/php_erp_xinong/sdjyht/Manage/js/s.js" timestamp="1605316642736">
+        <mark key="[" line="103" column="20" />
+        <mark key="]" line="103" column="24" />
+        <mark key="^" line="103" column="24" />
+        <mark key="." line="103" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="410" column="0" filename="http://ulove520.ysnows.com/public/plugins/webuploader/upload.js" />
-      <jump line="20" column="26" filename="$USER_HOME$/www/php_ulove520/application/admin/template/uploadify/upload.htm" />
-      <jump line="310" column="16" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
       <jump line="593" column="48" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
       <jump line="575" column="0" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
       <jump line="1014" column="11" filename="$USER_HOME$/www/php_ulove520/public/plugins/webuploader/upload.js" />
@@ -314,6 +318,9 @@
       <jump line="47" column="19" filename="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" />
       <jump line="72" column="0" filename="$USER_HOME$/www/php_suhongshop/app/home/controller/Api.php" />
       <jump line="19" column="7" filename="$USER_HOME$/www/php_chunxiaoshop/app/home/controller/Api.php" />
+      <jump line="287" column="20" filename="$USER_HOME$/www/php_erp_xinong/sdjyht/App/Admin/Controller/SalerShopController.class.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/php_erp_xinong/sdjyht/Manage/member-recharge-list2.html" />
+      <jump line="19" column="27" filename="$USER_HOME$/www/php_erp_xinong/sdjyht/Manage/overage-list2.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,50 +328,50 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text>1. 余额记录优化</text>
+      <register name="*" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>下单失败,写入商品记录出错2</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJsZW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>is_ratio</text>
+        <text>saler_index</text>
       </register>
       <register name="1" type="2">
-        <text>1. 余额记录优化</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1hcCA9IFtdOwogICAgICAgICAgICBpZiAoIWVtcHR5KCRfR0VUWydrJ10pKSB7CiAgICAgICAgICAgICAgICAkbWFwWydhLnNhbGVyX25hbWV8YS5waG9uZXxhLnVpZCddID0gWydsaWtlJywgIiUiIC4gJF9HRVRbJ2snXSAuICIlIl07CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChpc3NldCgkX0dFVFsndCddKSAmJiAkX0dFVFsndCddICE9ICcnKSB7CiAgICAgICAgICAgICAgICAkc3RhdGUgPSBbJzAnLCAnMSddOwogICAgICAgICAgICAgICAgJG1hcFsnYS5zdGF0dXMnXSA9ICRzdGF0ZVtpbnR2YWwoJF9HRVRbJ3QnXSldOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8v57G75Z6LCiAgICAgICAgICAgIGlmIChpc3NldF9mdWxsKCRfR0VULCAndHlwZScpKSB7CiAgICAgICAgICAgICAgICAkbWFwWydhLnR5cGUnXSA9IGludHZhbCgkX0dFVFsndHlwZSddKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJG9yZGVyID0gJyc7CiAgICAgICAgICAgIGlmIChpc3NldF9mdWxsKCRfR0VULCAnb3JkZXInKSAmJiAkX0dFVFsnb3JkZXInXSA9PSAnc2FsZXJfc2hvcF9udW1zJykgewogICAgICAgICAgICAgICAgJG9yZGVyID0gJ3NhbGVyX3Nob3BfbnVtcyc7CiAgICAgICAgICAgICAgICB1bnNldCgkX0dFVFsnb3JkZXInXSk7CiAgICAgICAgICAgIH0KCgogICAgICAgICAgICAkbGlzdCA9ICR0CiAgICAgICAgICAgICAgICAtPmFsaWFzKCdhJykKICAgICAgICAgICAgICAgIC0+ZmllbGQoJ2EuKixiLnVzZXJfYXZhdGFyJykKICAgICAgICAgICAgICAgIC0+am9pbignbGVmdCBqb2luIHVzZXIgYiBvbiBhLnVpZD1iLnVpZCcpCiAgICAgICAgICAgICAgICAtPndoZXJlKCRtYXApCiAgICAgICAgICAgICAgICAtPm9yZGVyKGdldE9yZGVyKCR0LT5nZXRQaygpKSkKICAgICAgICAgICAgICAgIC0+bGltaXQoZ2V0TGltaXQoMTAwKSkKICAgICAgICAgICAgICAgIC0+c2VsZWN0KCk7CgogICAgICAgICAgICAvL+aOkuW6jwogICAgICAgICAgICBpZiAoIWVtcHR5KCRvcmRlcikpIHsKICAgICAgICAgICAgICAgICRhc2MgPSBpc3NldF9mdWxsKCRfR0VULCAnZGVzYycpID8gU09SVF9ERVNDIDogU09SVF9BU0M7CiAgICAgICAgICAgICAgICAkdGVtcF9kYXRhID0gYXJyYXlfY29sdW1uKCRsaXN0LCAkb3JkZXIpOwogICAgICAgICAgICAgICAgYXJyYXlfbXVsdGlzb3J0KCR0ZW1wX2RhdGEsICRhc2MsICRsaXN0KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJHRvdGFsID0gJHQtPmFsaWFzKCdhJyktPndoZXJlKCRtYXApLT5jb3VudCgpOwogICAgICAgICAgICAkdGhpcy0+YWpheFJldHVybihvdXRwdXRKU09OKCRsaXN0LCAkdG90YWwpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHZbJ2lzX3JhdGlvJ10gPT0gMSAmJiAhJF9QT1NUWyd1c2VfY29pbl9udW1zJ10gJiYgJGlzX2dpZnQgPD0gMCkgeyAvLyDkvb/nlKgg56GS5Yi4IOeahOiuouWNleS4jei/lOWIqSzkvJrlkZjmiJbogIXkvJrplb/otK3kubDpnIDopoHmt7vliqDov5TliKnorrDlvZXkvYbkuI3lrp7pmYXmt7vliqDmgLvmlbDmja7vvIjkuLrkuobkvJrplb/ljLrln5/kuJrnu6ks5omA5Lul6L+Z6YeM6ZyA6KaB5aKe5Yqg6L+U5Yip6K6w5b2V77yJCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoSVNfUE9TVCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHZbJ2lzX3JhdGlvJ10gPT0gMSAmJiAhJF9QT1NUWyd1c2VfY29pbl9udW1zJ10gJiYgJGlzX2dpZnQgPD0gMCkgeyAvLyDkvb/nlKgg56GS5Yi4IOeahOiuouWNleS4jei/lOWIqSzkvJrlkZjmiJbogIXkvJrplb/otK3kubDpnIDopoHmt7vliqDov5TliKnorrDlvZXkvYbkuI3lrp7pmYXmt7vliqDmgLvmlbDmja7vvIjkuLrkuobkvJrplb/ljLrln5/kuJrnu6ks5omA5Lul6L+Z6YeM6ZyA6KaB5aKe5Yqg6L+U5Yip6K6w5b2V77yJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCRfR0VUWydpZCddKSkgewogICAgICAgICAgICAgICAgaWYgKCR0LT53aGVyZShbJ3VpZCcgPT4gSSgncG9zdC51aWQnKSwgJ2lkJyA9PiBbJ25lcScsICRfR0VUWydpZCddXV0pLT5jb3VudCgpKSB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmVycm9yKCfkvJrplb/lt7Lnu5Hlrprlvq7kv6HkvJrlkZjvvIEnKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmICgkdC0+d2hlcmUoWydwaG9uZScgPT4gSSgncG9zdC5waG9uZScpLCAnaWQnID0+IFsnbmVxJywgJF9HRVRbJ2lkJ11dXSktPmNvdW50KCkpIHsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+ZXJyb3IoJ+S8mumVv+aJi+acuuWPt+S4jeiDveebuOWQjO+8gScpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgJHQtPmNyZWF0ZSgnJywgMikgb3IgJHRoaXMtPmVycm9yKCR0LT5nZXRFcnJvcigpKTsKICAgICAgICAgICAgICAgICRtYXAgPSBbJ2lkJyA9PiAoaW50KSRfR0VUWydpZCddXTsKICAgICAgICAgICAgICAgICRvbGRfc2FsZXJfdWlkID0gJHQtPndoZXJlKCRtYXApLT5nZXRGaWVsZCgndWlkJyk7CiAgICAgICAgICAgICAgICBEKCktPnN0YXJ0VHJhbnMoKTsKICAgICAgICAgICAgICAgICRyZXMgPSAkdC0+d2hlcmUoJG1hcCktPnNhdmUoKTsKICAgICAgICAgICAgICAgIGlmICgkb2xkX3NhbGVyX3VpZCA9PSBJKCdwb3N0LnVpZCcpKSB7CiAgICAgICAgICAgICAgICAgICAgJHVwX3VzZXIgPSAkVS0+d2hlcmUoWyd1aWQnID0+IEkoJ3Bvc3QudWlkJyldKS0+c2V0RmllbGQoJ3VzZXJfdHlwZScsIDEpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKCRyZXMgIT09IGZhbHNlICYmICR1cF91c2VyICE9PSBmYWxzZSkgewogICAgICAgICAgICAgICAgICAgIEQoKS0+Y29tbWl0KCk7CgogICAgICAgICAgICAgICAgICAgIC8vQVBJ5ZCM5q2lCiAgICAgICAgICAgICAgICAgICAgUignV21zL1NhbGVyL3VwSW5mbycsIFsnaWQnID0+IChpbnQpJF9HRVRbJ2lkJ10sICd0eXBlJyA9PiAxXSk7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPnN1Y2Nlc3MoJ+a3u+WKoOaIkOWKnycsICcjJyk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIEQoKS0+cm9sbGJhY2soKTsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+ZXJyb3IoJ+S/neWtmOWksei0pScsICcjJyk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy/mn6XnnIvmnInml6Dnm7jlkIzkvJrplb8KICAgICAgICAgICAgICAgICRtYXBfb25seVsnX3F1ZXJ5J10gPSAndWlkPScgLiBJKCdwb3N0LnVpZCcpIC4gJyZwaG9uZT0nIC4gSSgncG9zdC5waG9uZScpIC4gJyZfbG9naWM9b3InOwogICAgICAgICAgICAgICAgJHQtPndoZXJlKCRtYXBfb25seSktPmZpbmQoKSAmJiAkdGhpcy0+ZXJyb3IoJ+S8mumVv+i0puWPt+aIluaJi+acuuWPt+WtmOWcqO+8gScpOwogICAgICAgICAgICAgICAgJF9QT1NUWydzdGF0dXMnXSA9IDA7CiAgICAgICAgICAgICAgICAkX1BPU1RbJ2lzX2ZpcnN0X2F1ZGl0J10gPSAxOwogICAgICAgICAgICAgICAgJHQtPmNyZWF0ZSgpIG9yICR0aGlzLT5lcnJvcigkdC0+Z2V0RXJyb3IoKSk7CiAgICAgICAgICAgICAgICBEKCktPnN0YXJ0VHJhbnMoKTsKICAgICAgICAgICAgICAgICRyZXNfaWQgPSAkdC0+YWRkKCk7CiAgICAgICAgICAgICAgICAkcmVzX2FkZCA9IEQoJ1VzZXJXb3Jrc1RpY2tldHMnKS0+YWRkKFsndWlkJyA9PiBJKCdwb3N0LnVpZCcpXSk7CiAgICAgICAgICAgICAgICBpZiAoJHJlc19pZCAmJiAkcmVzX2FkZCkgewogICAgICAgICAgICAgICAgICAgIEQoKS0+Y29tbWl0KCk7CiAgICAgICAgICAgICAgICAgICAgJHVzZXJfaW5mb1sndXNlcl9tb2JpbGUnXSA9ICRfUE9TVFsncGhvbmUnXTsKICAgICAgICAgICAgICAgICAgICAkdXNlcl9pbmZvWydtb2JpbGVfYmluZCddID0gMTsKICAgICAgICAgICAgICAgICAgICAkVS0+d2hlcmUoWyd1aWQnID0+IEkoJ3Bvc3QudWlkJyldKS0+c2F2ZSgkdXNlcl9pbmZvKTsvL+S/ruaUueeUqOaIt+aJi+acuuWPt+eggSAg5YWo5bmz5Y+w57uf5LiACiAgICAgICAgICAgICAgICAgICAgLy9BUEnlkIzmraUKICAgICAgICAgICAgICAgICAgICBSKCdXbXMvU2FsZXIvdXBJbmZvJywgWydpZCcgPT4gJHJlc19pZCwgJ3R5cGUnID0+IDFdKTsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+c3VjY2Vzcygn5pON5L2c5oiQ5YqfJywgJyMnKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgRCgpLT5yb2xsYmFjaygpOwogICAgICAgICAgICAgICAgICAgICR0aGlzLT5zdWNjZXNzKCfmk43kvZzlpLHotKUnLCAnIycpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkdlsnaXNfcmF0aW8nXSA9PSAxICYmICEkX1BPU1RbJ3VzZV9jb2luX251bXMnXSAmJiAkaXNfZ2lmdCA8PSAwKSB7IC8vIOS9v+eUqCDnoZLliLgg55qE6K6i5Y2V5LiN6L+U5YipLOS8muWRmOaIluiAheS8mumVv+i0reS5sOmcgOimgea3u+WKoOi/lOWIqeiusOW9leS9huS4jeWunumZhea3u+WKoOaAu+aVsOaNru+8iOS4uuS6huS8mumVv+WMuuWfn+S4mue7qSzmiYDku6Xov5nph4zpnIDopoHlop7liqDov5TliKnorrDlvZXvvIkK</text>
+        <text>1. 余额记录优化</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJHZbJ2dvb2RfdW5pZnlfcmF0aW8nXSA+IDAgfHwgJHZbJ2dvb2RfcmF0aW9fcHJpY2UnXSA+IDApIHsvL+WtmOWcqOavlOS+iyAg5oiW6ICFIOi/lOWIqeS7t+agvAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHZbJ2lzX3JhdGlvJ10gPT0gMSAmJiAhJF9QT1NUWyd1c2VfY29pbl9udW1zJ10gJiYgJGlzX2dpZnQgPD0gMCkgeyAvLyDkvb/nlKgg56GS5Yi4IOeahOiuouWNleS4jei/lOWIqSzkvJrlkZjmiJbogIXkvJrplb/otK3kubDpnIDopoHmt7vliqDov5TliKnorrDlvZXkvYbkuI3lrp7pmYXmt7vliqDmgLvmlbDmja7vvIjkuLrkuobkvJrplb/ljLrln5/kuJrnu6ks5omA5Lul6L+Z6YeM6ZyA6KaB5aKe5Yqg6L+U5Yip6K6w5b2V77yJCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkd2hlcmVzWydvLnNpZCddID0gJF9HRVRbJ3NpZCddOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHZbJ2lzX3JhdGlvJ10gPT0gMSAmJiAhJF9QT1NUWyd1c2VfY29pbl9udW1zJ10gJiYgJGlzX2dpZnQgPD0gMCkgeyAvLyDkvb/nlKgg56GS5Yi4IOeahOiuouWNleS4jei/lOWIqSzkvJrlkZjmiJbogIXkvJrplb/otK3kubDpnIDopoHmt7vliqDov5TliKnorrDlvZXkvYbkuI3lrp7pmYXmt7vliqDmgLvmlbDmja7vvIjkuLrkuobkvJrplb/ljLrln5/kuJrnu6ks5omA5Lul6L+Z6YeM6ZyA6KaB5aKe5Yqg6L+U5Yip6K6w5b2V77yJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIGpzb25lbiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkdlsnaXNfcmF0aW8nXSA9PSAxICYmICEkX1BPU1RbJ3VzZV9jb2luX251bXMnXSAmJiAkaXNfZ2lmdCA8PSAwKSB7IC8vIOS9v+eUqCDnoZLliLgg55qE6K6i5Y2V5LiN6L+U5YipLOS8muWRmOaIluiAheS8mumVv+i0reS5sOmcgOimgea3u+WKoOi/lOWIqeiusOW9leS9huS4jeWunumZhea3u+WKoOaAu+aVsOaNru+8iOS4uuS6huS8mumVv+WMuuWfn+S4mue7qSzmiYDku6Xov5nph4zpnIDopoHlop7liqDov5TliKnorrDlvZXvvIkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a0EK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJHZbJ2dvb2RfdW5pZnlfcmF0aW8nXSA+IDAgfHwgJHZbJ2dvb2RfcmF0aW9fcHJpY2UnXSA+IDApIHsvL+WtmOWcqOavlOS+iyAg5oiW6ICFIOi/lOWIqeS7t+agvAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29ubmVjdCgnZGJfc3Vob25nJykKICAgICAgICAgICAgLT4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkd2hlcmVzWydvLnNpZCddID0gJF9HRVRbJ3NpZCddOwo=</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
