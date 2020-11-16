@@ -2,7 +2,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="c25aba5f-ad68-4213-8846-932aa2cfd705" name="PHP7.4" home="$USER_HOME$/var/php/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="15d98e63-2ea9-4a3b-aff8-67d0cde3133a" name="PHP7.2" home="/usr/local/Cellar/php@7.2/7.2.29/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="15d98e63-2ea9-4a3b-aff8-67d0cde3133a" name="PHP7.2" home="/usr/local/Cellar/php@7.2/7.2.32/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -53,11 +53,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.29/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.29/bin/php" path_separator=":" version="7.2.29">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.32/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.32/bin/php" path_separator=":" version="7.2.32">
           <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-igbinary.ini, /usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-redis.ini, /usr/local/etc/php/7.2/conf.d/ext-swoole.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.29/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.32/share/php@7.2/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.6.0">
